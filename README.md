@@ -1,0 +1,1 @@
+Ova aplikacija je napravljena za dosadne predmete gdje je potrebno učiti stvari napamet bez razumijevanja. Nadam se da će redovno izlaziti nove verzije s do dodacima, al za sad bi u sljedećoj verziji pokušao napravit da se aplikacija sama ažurira, s(P)retno s učenjem i slobodno proširite aplikaciju
